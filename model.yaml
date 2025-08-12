@@ -1,0 +1,5 @@
+names:
+- parking_lot
+test: C:\Users\sagni\Downloads\Parking Lot Detection\archive (1)\test
+train: C:\Users\sagni\Downloads\Parking Lot Detection\archive (1)\train
+val: C:\Users\sagni\Downloads\Parking Lot Detection\archive (1)\valid
